@@ -1,0 +1,98 @@
+Info: : 5762 mini-second(s) publishing element CapabilityPattern:Análise[ForAll\capabilitypatterns\Análise_7E7E857.html]
+Info: CapabilityPattern:Análise: 5768 mini seconds publishing element
+Info: CapabilityPattern:Análise: 84 mini seconds publishing process specific layout data
+Info: Task:Criar visão do projeto: 784 mini seconds publishing element
+Info: TaskDescriptor:Criar visão do projeto: 566 mini seconds publishing element
+Info: : 3333 mini-second(s) publishing element Role:Desenvolvedores[ForAll\roles\Desenvolvedores_AE95B61D.html]
+Info: Role:Desenvolvedores: 3352 mini seconds publishing element
+Info: RoleDescriptor:Desenvolvedores: 519 mini seconds publishing element
+Info: Role:Design Técnico: 176 mini seconds publishing element
+Info: RoleDescriptor:Design Técnico: 79 mini seconds publishing element
+Info: Artifact:Coleta de dados dos insights: 664 mini seconds publishing element
+Info: WorkProductDescriptor:Coleta de dados dos insights: 769 mini seconds publishing element
+Info: Outcome:Documento de visão: 619 mini seconds publishing element
+Info: WorkProductDescriptor:Documento de visão: 107 mini seconds publishing element
+Info: Task:Levantamento dos dados do público alvo similar ao do forall: 64 mini seconds publishing element
+Info: TaskDescriptor:Levantamento dos dados do público alvo similar ao do forall: 67 mini seconds publishing element
+Info: Task:Participar de comunidades do público alvo: 56 mini seconds publishing element
+Info: TaskDescriptor:Participar de comunidades do público alvo: 65 mini seconds publishing element
+Info: Task:Temas recorrentes em plataformas similares: 47 mini seconds publishing element
+Info: TaskDescriptor:Temas recorrentes em plataformas similares: 41 mini seconds publishing element
+Info: Task:Coleta de dados sobre engajamento nas plataformas similares com conteúdos do público alvo: 51 mini seconds publishing element
+Info: TaskDescriptor:Coleta de dados sobre engajamento nas plataformas similares com conteúdos do público alvo: 50 mini seconds publishing element
+Info: Task:organizar informações coletadas na fase de imersão: 53 mini seconds publishing element
+Info: TaskDescriptor:organizar informações coletadas na fase de imersão: 64 mini seconds publishing element
+Info: Role:Desenvolvedores: 135 mini seconds publishing element
+Info: RoleDescriptor:Desenvolvedores: 35 mini seconds publishing element
+Info: Role:Design Técnico: 103 mini seconds publishing element
+Info: RoleDescriptor:Design Técnico: 95 mini seconds publishing element
+Info: Artifact:Análise do documento de visão: 70 mini seconds publishing element
+Info: WorkProductDescriptor:Análise do documento de visão: 42 mini seconds publishing element
+Info: Artifact:Insights da fase de imersão: 28 mini seconds publishing element
+Info: WorkProductDescriptor:Insights da fase de imersão: 61 mini seconds publishing element
+Info: Outcome:Elementos lógicos do problema: 42 mini seconds publishing element
+Info: WorkProductDescriptor:Elementos lógicos do problema: 45 mini seconds publishing element
+Info: Task:Criar casos de usos: 49 mini seconds publishing element
+Info: TaskDescriptor:Criar casos de usos: 54 mini seconds publishing element
+Info: Role:Design Técnico: 91 mini seconds publishing element
+Info: RoleDescriptor:Design Técnico: 60 mini seconds publishing element
+Info: Artifact:Coleta de dados dos insights: 40 mini seconds publishing element
+Info: WorkProductDescriptor:Coleta de dados dos insights: 48 mini seconds publishing element
+Info: Artifact:Dados visuais da ideação: 27 mini seconds publishing element
+Info: WorkProductDescriptor:Dados visuais da ideação: 44 mini seconds publishing element
+Info: Outcome:Refino no documento de visão: 32 mini seconds publishing element
+Info: WorkProductDescriptor:Refino no documento de visão: 60 mini seconds publishing element
+Info: Task:Transformar documentos de saída da etapa de imerso em elementos visuais: 73 mini seconds publishing element
+Info: TaskDescriptor:Transformar documentos de saída da etapa de imerso em elementos visuais: 77 mini seconds publishing element
+Info: Role:Desenvolvedores: 113 mini seconds publishing element
+Info: RoleDescriptor:Desenvolvedores: 46 mini seconds publishing element
+Info: Outcome:Artefatos visuais: 43 mini seconds publishing element
+Info: WorkProductDescriptor:Artefatos visuais: 42 mini seconds publishing element
+Info: : 6364 mini-second(s) publishing element CapabilityPattern:Implementação[ForAll\capabilitypatterns\Implementação_48D7BB3D.html]
+Info: CapabilityPattern:Implementação: 6370 mini seconds publishing element
+Info: CapabilityPattern:Implementação: 107 mini seconds publishing process specific layout data
+Info: TaskDescriptor:Criar casos de usos: 44 mini seconds publishing element
+Info: RoleDescriptor:Design Técnico: 38 mini seconds publishing element
+Info: WorkProductDescriptor:Coleta de dados dos insights: 30 mini seconds publishing element
+Info: WorkProductDescriptor:Dados visuais da ideação: 62 mini seconds publishing element
+Info: WorkProductDescriptor:Refino no documento de visão: 39 mini seconds publishing element
+Info: Task:Refinamento dos casos de uso: 29 mini seconds publishing element
+Info: TaskDescriptor:Refinamento dos casos de uso: 59 mini seconds publishing element
+Info: Role:Desenvolvedores: 150 mini seconds publishing element
+Info: RoleDescriptor:Desenvolvedores: 44 mini seconds publishing element
+Info: Artifact:Refinamento do documento de visão revisado requisitos do protótipo: 24 mini seconds publishing element
+Info: WorkProductDescriptor:Refinamento do documento de visão revisado requisitos do protótipo: 39 mini seconds publishing element
+Info: Outcome:MVP(Menor produto viável): 32 mini seconds publishing element
+Info: WorkProductDescriptor:MVP(Menor produto viável): 60 mini seconds publishing element
+Info: Task:Desenvolver uma prototipação usando o conceito de MVP(menor produto viável): 49 mini seconds publishing element
+Info: TaskDescriptor:Desenvolver uma prototipação usando o conceito de MVP(menor produto viável): 58 mini seconds publishing element
+Info: DeliveryProcess:Processo análise: 833 mini seconds publishing element
+Info: DeliveryProcess:Processo análise: 485 mini seconds publishing process specific layout data
+Info: Iteration:Kanban: 351 mini seconds publishing element
+Info: CapabilityPattern:Análise: 535 mini seconds publishing element
+Info: DeliveryProcess:Processo de implementação: 301 mini seconds publishing element
+Info: DeliveryProcess:Processo de implementação: 174 mini seconds publishing process specific layout data
+Info: DeliveryProcess:Processo de Testes: 272 mini seconds publishing element
+Info: DeliveryProcess:Processo de Testes: 195 mini seconds publishing process specific layout data
+Info: Iteration:Kanban: 264 mini seconds publishing element
+Info: Task:Criar teste unitário: 62 mini seconds publishing element
+Info: TaskDescriptor:Criar teste unitário: 29 mini seconds publishing element
+Info: Role:Testador: 142 mini seconds publishing element
+Info: RoleDescriptor:Testador: 50 mini seconds publishing element
+Info: Artifact:Documento de visão da fase de prototipação: 25 mini seconds publishing element
+Info: Artifact:Protótipo desenvolvido: 26 mini seconds publishing element
+Info: WorkProductDescriptor:Documento de visão da fase de prototipação: 45 mini seconds publishing element
+Info: WorkProductDescriptor:Protótipo desenvolvido: 30 mini seconds publishing element
+Info: Outcome:Relatório dos testes: 55 mini seconds publishing element
+Info: WorkProductDescriptor:Relatório dos testes: 43 mini seconds publishing element
+Info: Task:Testar o protótipo desenvolvido: 37 mini seconds publishing element
+Info: TaskDescriptor:Testar o protótipo desenvolvido: 41 mini seconds publishing element
+Info: Discipline:analise: 534 mini seconds publishing element
+Info: Discipline:codifica: 17 mini seconds publishing element
+Info: Discipline:teste: 19 mini seconds publishing element
+Info: CustomCategory:Configuration free process view: 31 mini seconds publishing element
+Info: CustomCategory:Tasks: 26 mini seconds publishing element
+Info: CustomCategory:Roles: 21 mini seconds publishing element
+Info: CustomCategory:Work Products: 24 mini seconds publishing element
+Info: CustomCategory:Processes: 42 mini seconds publishing element
+Info: : Publishing time: 0 minutes 35 seconds
